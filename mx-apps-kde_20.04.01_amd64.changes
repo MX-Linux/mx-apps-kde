@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 06 Apr 2020 19:59:31 -0400
+Source: mx-apps-kde
+Binary: mx-apps-kde
+Architecture: source all
+Version: 20.04.01
+Distribution: mx
+Urgency: medium
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-apps-kde - metapackage for MX applets
+Changes:
+ mx-apps-kde (20.04.01) mx; urgency=medium
+ .
+   * initial build
+Checksums-Sha1:
+ 457bc703cc0d3960b77988ea15ea269ec309866e 550 mx-apps-kde_20.04.01.dsc
+ 0cc87b23bd16517faf8a8c135e2c4087cea7d490 17128 mx-apps-kde_20.04.01.tar.xz
+ 5f8e957a3586fb66633dd2e0fcf2f15c17212788 15952 mx-apps-kde_20.04.01_all.deb
+ 012017d419319243ad195d3d742372edfe8529f4 4501 mx-apps-kde_20.04.01_amd64.buildinfo
+Checksums-Sha256:
+ d57681ddc132bd987179b698aed11a0c1e75d676b89b3ca57e70cdf81a940efd 550 mx-apps-kde_20.04.01.dsc
+ 969f9ae8ef11a06e6349f6066246a5fb320c13f49605a0dcf35f5f03ee7f358d 17128 mx-apps-kde_20.04.01.tar.xz
+ 877b7f62dcc7d629328a9310b851c7c60ee33feb10f155287db0bc61abadf103 15952 mx-apps-kde_20.04.01_all.deb
+ e54b41a9a08a077d9059a3890efc38e39a6e84bf1c9a48f6ebdfab9dcfa862fe 4501 mx-apps-kde_20.04.01_amd64.buildinfo
+Files:
+ b624fb653e4daed728ec938f3ab330a7 550 system optional mx-apps-kde_20.04.01.dsc
+ 3820029f7d97eb09ca5dfbbdf5b4acaa 17128 system optional mx-apps-kde_20.04.01.tar.xz
+ 847c2d337008b8522b20b4562432c265 15952 system optional mx-apps-kde_20.04.01_all.deb
+ c07ddf5aac62ad817740c79cc96cfe86 4501 system optional mx-apps-kde_20.04.01_amd64.buildinfo
