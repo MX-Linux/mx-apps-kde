@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 11 Jun 2020 22:37:14 -0400
+Source: mx-apps-kde
+Binary: mx-apps-kde
+Architecture: source all
+Version: 20.06
+Distribution: mx
+Urgency: medium
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-apps-kde - metapackage for MX applets
+Changes:
+ mx-apps-kde (20.06) mx; urgency=medium
+ .
+   * remove mx-menu-editor
+Checksums-Sha1:
+ 1a50ba5a676e0c54d05886736d9a354f38ef629f 1100 mx-apps-kde_20.06.dsc
+ 4769534f12ff727df0b5db8332325b91b3a6c0b8 17208 mx-apps-kde_20.06.tar.xz
+ ec70d4dd57d1a533d8c51dee3efd9545062090d2 15944 mx-apps-kde_20.06_all.deb
+ 2466c76f7e047b74bfb9939ff3a32119762afe8c 5502 mx-apps-kde_20.06_amd64.buildinfo
+Checksums-Sha256:
+ 437425cfaafb607b6e7bbccf1698e9d66cdca0bb103456c8274b80f5e65a1f16 1100 mx-apps-kde_20.06.dsc
+ e9a9d73e69036ccd50eff3f90790e2d7b12272b6f73cde87b1b535366b8854d3 17208 mx-apps-kde_20.06.tar.xz
+ 62a56ddc774d74446d89d0a5870aa4f8b5251a45d236a2be26f40c840865af09 15944 mx-apps-kde_20.06_all.deb
+ 9c60ce2010d93b4a6357a5aa21bb8b948f92a230b61ed1c31a999f5c078412b0 5502 mx-apps-kde_20.06_amd64.buildinfo
+Files:
+ 11b1693932c18e3997f5488d3081437b 1100 system optional mx-apps-kde_20.06.dsc
+ de8c189ff355e8b8275f5c4ba67ee66b 17208 system optional mx-apps-kde_20.06.tar.xz
+ 8053e65aab15cb52093976a9d6682244 15944 system optional mx-apps-kde_20.06_all.deb
+ 6453cc3dda37c2d1d05e5e0e8deb67cd 5502 system optional mx-apps-kde_20.06_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl7i66UTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumL/SB/9J1XAAq1+qRjZnwx49Pg2jnR7PPmRd
+Cqw+q4rWXr0WY3nS3L2ueV55Z+vyH0xMfHqp9A2TmYGMz3YpZ65C9H1By4g/7JmW
+A8zbhuyEJZJ3n8GwWfvvLFHxYskSnAn8HpbuSakIY3jn6rJu6OfTN5qAjB8mKVQq
+5Gi/F7qCcWtcxz18I01Whf8ek9fdBH4FAds/fzF63B3+e18zB3G0zAK1lAC46aXi
+bjAPZzX2196G2WP/QpIQ3QfIwOEXDT6+V66gpe/nNm/gRS2dmZMavym8hSBza2LO
+IS8FqtQMDSAfI8VLmHnI8JIU51WnVXqhsQWti/L1En9IfwDOAFxB7GBY
+=1WeR
+-----END PGP SIGNATURE-----
