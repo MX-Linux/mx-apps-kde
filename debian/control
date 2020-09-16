@@ -34,7 +34,8 @@ Depends:
  ddm-mx,
  conky-toggle-mx,
  formatusb,
- mx-cleanup
+ mx-cleanup,
+ mx-system-kde
 Breaks: docs-mx,
  install-meta-mx,
  installer-mx,
