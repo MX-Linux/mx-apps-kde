@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 15 Sep 2020 21:28:21 -0400
+Source: mx-apps-kde
+Binary: mx-apps-kde
+Architecture: source all
+Version: 20.09
+Distribution: mx
+Urgency: medium
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-apps-kde - metapackage for MX applets
+Changes:
+ mx-apps-kde (20.09) mx; urgency=medium
+ .
+   * add mx-system-kde
+Checksums-Sha1:
+ 7f9a9016f296607fc0a373e06340d0c474927ede 538 mx-apps-kde_20.09.dsc
+ 9214fec3e87fd779fb0287a9760cdf71ec658091 17248 mx-apps-kde_20.09.tar.xz
+ 7bf11764ba73a123cce84364e20f96ebc54182b4 16064 mx-apps-kde_20.09_all.deb
+ 618eb08aa016908ef4f2f06a7e222bd92ea0fd3b 4672 mx-apps-kde_20.09_amd64.buildinfo
+Checksums-Sha256:
+ 3dbc309efca0ab012ed2f5b4798294349b22d4da64423577213de2a33b2b40a2 538 mx-apps-kde_20.09.dsc
+ 12c1b5fa12e09c376c14f8dcfca6d5c20a5c766217ece19ab5830c5b4f9e726b 17248 mx-apps-kde_20.09.tar.xz
+ c22031cc633b1ad4bec5e25086c9eec922a550e25548697c0aa4274b84a3c624 16064 mx-apps-kde_20.09_all.deb
+ bfe49e6b515a35357f63e2a61254f2e3208009b3c8f3992b7efb19edde42f897 4672 mx-apps-kde_20.09_amd64.buildinfo
+Files:
+ 597f995f5af2829e04387a244fc41b1f 538 system optional mx-apps-kde_20.09.dsc
+ f1166dc3fb2c457541dc1f1925466979 17248 system optional mx-apps-kde_20.09.tar.xz
+ f7ef03bb3dfc84136e84037f867966f4 16064 system optional mx-apps-kde_20.09_all.deb
+ a6b538e0793f60b8c35d6232850ec539 4672 system optional mx-apps-kde_20.09_amd64.buildinfo
