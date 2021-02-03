@@ -1,3 +1,9 @@
+mx-apps-kde (21.02) mx; urgency=medium
+
+  * add system-keyboard-qt 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 02 Feb 2021 23:10:28 -0500
+
 mx-apps-kde (20.09) mx; urgency=medium
 
   * add mx-system-kde 

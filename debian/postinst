@@ -29,6 +29,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  ddm-mx \
  formatusb \
  mx-system-kde \
+ system-keyboard-qt \
  mx-cleanup 
 fi
 

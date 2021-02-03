@@ -35,6 +35,7 @@ Depends:
  conky-toggle-mx,
  formatusb,
  mx-cleanup,
+ system-keyboard-qt,
  mx-system-kde
 Breaks: docs-mx,
  install-meta-mx,
