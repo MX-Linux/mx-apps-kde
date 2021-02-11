@@ -1,3 +1,9 @@
+mx-apps-kde (21.03mx21) mx; urgency=medium
+
+  * initial bullseye build 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 11 Feb 2021 13:27:43 -0500
+
 mx-apps-kde (21.02) mx; urgency=medium
 
   * add system-keyboard-qt 
