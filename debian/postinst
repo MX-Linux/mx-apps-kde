@@ -3,6 +3,7 @@
 if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remove" ] ; then
     apt-mark manual mx-bootrepair \
  bash-config \
+ disk-manager \
  mx-boot-options \
  mx-conky \
  mx-codecs \
@@ -14,6 +15,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  mx-remaster \
  mx-remastercc \
  mx-repo-manager \
+ mx-samba-config \
  mx-select-sound \
  mx-snapshot \
  mx-tools \
