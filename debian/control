@@ -9,6 +9,7 @@ Package: mx-apps-kde
 Architecture: all
 Depends:
  bash-config,
+ disk-manager,
  mx-bootrepair,
  mx-boot-options,
  mx-conky,
@@ -21,6 +22,7 @@ Depends:
  mx-remastercc,
  mx-repo-manager,
  mx-select-sound,
+ mx-samba-config,
  mx-snapshot,
  mx-tools,
  mx-tweak,
