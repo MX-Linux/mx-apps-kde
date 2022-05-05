@@ -9,6 +9,7 @@ Package: mx-apps-kde
 Architecture: all
 Depends:
  bash-config,
+ cleanup-notifier-mx, 
  disk-manager,
  mx-bootrepair,
  mx-boot-options,
