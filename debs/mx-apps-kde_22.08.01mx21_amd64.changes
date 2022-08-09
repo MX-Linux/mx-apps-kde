@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 09 Aug 2022 19:25:58 -0400
+Source: mx-apps-kde
+Binary: mx-apps-kde
+Architecture: source all
+Version: 22.08.01mx21
+Distribution: mx
+Urgency: medium
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-apps-kde - metapackage for MX applets
+Changes:
+ mx-apps-kde (22.08.01mx21) mx; urgency=medium
+ .
+   * add quick-system-info-gui
+Checksums-Sha1:
+ 64bdc219336aa97abf5eb1eea627c31538ca5e6c 566 mx-apps-kde_22.08.01mx21.dsc
+ 43932214a1e1c7fd54c44915f7e404dac39a6bd1 54204 mx-apps-kde_22.08.01mx21.tar.xz
+ 93d194682e4f25ac43dc7d30b5bc0e9354d695fd 16292 mx-apps-kde_22.08.01mx21_all.deb
+ 9f5a4b00e5c00821bdb56778d20eeb05de93d4ed 5703 mx-apps-kde_22.08.01mx21_amd64.buildinfo
+Checksums-Sha256:
+ ae1b6c07ae48118971322703f7edd38c2c36bb6aa107ebdb2103367a6e210cfb 566 mx-apps-kde_22.08.01mx21.dsc
+ fc2c74903eb27e234e4c57617af4f2fc487af3a86958e28f94d8badc443aa65e 54204 mx-apps-kde_22.08.01mx21.tar.xz
+ bc3b7c619d4d09271dcf5e8a54d6c7e31e54457595110d0c5a1f2276750c8735 16292 mx-apps-kde_22.08.01mx21_all.deb
+ f2162876f17cd18c40e46cb0a53a39da4f1d8f8666483b7f4fcc14be7e8cb009 5703 mx-apps-kde_22.08.01mx21_amd64.buildinfo
+Files:
+ 38756aba5e9d31855f64af5bbd125874 566 system optional mx-apps-kde_22.08.01mx21.dsc
+ 047c142bc07352c09f74e2edee3b2e3c 54204 system optional mx-apps-kde_22.08.01mx21.tar.xz
+ 664b8037447157c2ca730e2fde299291 16292 system optional mx-apps-kde_22.08.01mx21_all.deb
+ 42ccf23ad62a773d7f9a806709cdefe5 5703 system optional mx-apps-kde_22.08.01mx21_amd64.buildinfo
