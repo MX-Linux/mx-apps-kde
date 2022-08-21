@@ -1,3 +1,33 @@
+mx-apps-kde (22.08.02) mx; urgency=medium
+
+  * Remmove mx-viewer dependency
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 21 Aug 2022 02:12:42 -0400
+
+mx-apps-kde (22.08.01mx21) mx; urgency=medium
+
+  * add quick-system-info-gui
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 09 Aug 2022 19:25:58 -0400
+
+mx-apps-kde (22.05.01mx21) mx; urgency=medium
+
+  * add cleanup-notifier-mx
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 04 May 2022 21:22:04 -0400
+
+mx-apps-kde (22.01mx21) mx; urgency=medium
+
+  * add mx-samba-config and disk-manager 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 29 Jan 2022 16:15:07 -0500
+
+mx-apps-kde (21.03mx21) mx; urgency=medium
+
+  * initial bullseye build 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 11 Feb 2021 13:27:43 -0500
+
 mx-apps-kde (21.02) mx; urgency=medium
 
   * add system-keyboard-qt 
