@@ -2,8 +2,8 @@ Source: mx-apps-kde
 Section: system
 Priority: optional
 Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
-Build-Depends: debhelper (>=7.0)
-Standards-Version: 3.9.5
+Build-Depends: debhelper (>=10)
+Standards-Version: 3.9.8
 
 Package: mx-apps-kde
 Architecture: all
@@ -28,7 +28,6 @@ Depends:
  mx-tools,
  mx-tweak,
  mx-user,
- mx-viewer,
  mx-welcome,
  mx-live-usb-maker,
  live-kernel-updater,
