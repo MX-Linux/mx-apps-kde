@@ -25,7 +25,6 @@ Depends:
  mx-tools,
  mx-tweak,
  mx-user,
- mx-viewer,
  mx-welcome,
  mx-live-usb-maker,
  live-kernel-updater,

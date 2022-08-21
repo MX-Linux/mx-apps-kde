@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 21 Aug 2022 01:09:01 -0400
+Source: mx-apps-kde
+Architecture: source
+Version: 22.8
+Distribution: mx
+Urgency: medium
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ mx-apps-kde (22.8) mx; urgency=medium
+ .
+   * Remove mx-viewer dependency
+Checksums-Sha1:
+ 79026c9171b98d669369e24c0f8c33f714fa43bf 1096 mx-apps-kde_22.8.dsc
+ 677317c0a8d3861b5a7f434ad231d9d9ee9bab97 17316 mx-apps-kde_22.8.tar.xz
+ 3038cc60d1b9b9e46e9a93fec0252c4f9bc00ffb 5080 mx-apps-kde_22.8_amd64.buildinfo
+Checksums-Sha256:
+ 5ca3ecc1fe269bbe6c075666c32ba06848680b581855f6ee00f45a3c2e3e1804 1096 mx-apps-kde_22.8.dsc
+ e031c05ea30af09387809d5ab5b452a67e7c0acae9b44895db2964c32a9cb027 17316 mx-apps-kde_22.8.tar.xz
+ a9bc529105d438bf55e81425efb6211093937e10983c71c861afc17eb13038b4 5080 mx-apps-kde_22.8_amd64.buildinfo
+Files:
+ f95c6567a7274530ee0e8a7d5a936b3a 1096 system optional mx-apps-kde_22.8.dsc
+ 23deea6d7ec09e13eb0f4a3b239c620b 17316 system optional mx-apps-kde_22.8.tar.xz
+ a6a9852e5b6c59cdbc2c221291682c9c 5080 system optional mx-apps-kde_22.8_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmMBvmETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumO/gCADM8wptok7xj0ghg4SQKPHG66eZX+zJ
+FdXXsigTMeo9FjObZjW+bOy5Ut7LqBdAheVIZXnwBBAYJUycX1Ywr1BS69Aw6+Pf
+Ets77Q7wf7ggv52zn8tKpk17cugwNjuqZGmxvFx5XZ9hcvc2iJe1hYAQk4Gcr0+I
+4WkZD2UqZpQu+zhHGzi8eSYowWZlfx1jJP6jhyiALj6Ye/iUL3tV0/3OVCccecBF
+0ZvIRk/ODUBD3vkpU+DR9ptcms24zDCNhq2z+/QpvXtjCi1B9iK/Yyrjij1/PafL
+FRoY20fS95175hIlTVQgS0KY9V2DDZ7zMLzqwmhRmhfTBfADXh+q5M3S
+=pHhx
+-----END PGP SIGNATURE-----
