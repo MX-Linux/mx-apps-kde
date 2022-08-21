@@ -1,3 +1,9 @@
+mx-apps-kde (22.08.02) mx; urgency=medium
+
+  * Remmove mx-viewer dependency
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 21 Aug 2022 02:12:42 -0400
+
 mx-apps-kde (22.08.01mx21) mx; urgency=medium
 
   * add quick-system-info-gui
