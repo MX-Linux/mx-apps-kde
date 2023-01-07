@@ -1,3 +1,9 @@
+mx-apps-kde (23.01.01) mx; urgency=medium
+
+  * remove mx-menu-editor for postinstall script
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 07 Jan 2023 14:00:24 -0500
+
 mx-apps-kde (22.08.02) mx; urgency=medium
 
   * Remmove mx-viewer dependency
