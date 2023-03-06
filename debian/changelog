@@ -1,4 +1,4 @@
-mx-apps-kde (23.07.01) mx; urgency=medium
+mx-apps-kde (23.07.01mx23) mx; urgency=medium
 
   * remove mx-codecs from default installation
 
