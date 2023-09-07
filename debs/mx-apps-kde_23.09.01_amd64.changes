@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 06 Sep 2023 22:54:43 -0400
+Source: mx-apps-kde
+Binary: mx-apps-kde
+Architecture: source all
+Version: 23.09.01
+Distribution: mx
+Urgency: medium
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-apps-kde - metapackage for MX applets
+Changes:
+ mx-apps-kde (23.09.01) mx; urgency=medium
+ .
+   * add mx-service-manager
+Checksums-Sha1:
+ 4e75b6e7c364a2b4e62a872385df84b95e62517b 1432 mx-apps-kde_23.09.01.dsc
+ 10736c15e2ea59ad8e6f275e2330b3404c46f458 17544 mx-apps-kde_23.09.01.tar.xz
+ 5a19558a0f9908a8e8a509a477d0e8eead56ca40 16448 mx-apps-kde_23.09.01_all.deb
+ 77076d5bda54f827b37497635183fefe45c1b55f 6010 mx-apps-kde_23.09.01_amd64.buildinfo
+Checksums-Sha256:
+ 35ff54904f7f21122ee2c83c139178bed565d2de242de659a23a177e912b410a 1432 mx-apps-kde_23.09.01.dsc
+ 44b738368b6d510c9b372dd3b8312471d27685e959fd2372b7c8ae0fb9fbd984 17544 mx-apps-kde_23.09.01.tar.xz
+ 6fca19a487a20ecb8dee667ecc7027103a8a22f76b077629604a64d48e0b9fe5 16448 mx-apps-kde_23.09.01_all.deb
+ de503cd0dcc969c4219790ec98d1aedadcf4b35f3c394bfd5e9d8a513c6eeed3 6010 mx-apps-kde_23.09.01_amd64.buildinfo
+Files:
+ 597fba5067ba0751e245cbd6ad6346ac 1432 system optional mx-apps-kde_23.09.01.dsc
+ 24b7f900103aeb973fd6dc56c0045626 17544 system optional mx-apps-kde_23.09.01.tar.xz
+ 3a9a87ad63ba40302401b8fbae96d4dc 16448 system optional mx-apps-kde_23.09.01_all.deb
+ f73a2de62cb8c8988e0f496c40db9594 6010 system optional mx-apps-kde_23.09.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmT5Pc4ACgkQm2ih6Lm2
+N1wSGg//W3JWhfa5WlNeDpkUzvq5+qDBuYgTA+O2j2fIVGAb9NlFUejC65PgqMWi
+iJ+vzxWgmVN7QDL1k8uEadED7OOgWVqsds3F+crTIIyAOghDDWmawXr8ncy0lgKN
+AE+8X0TlgPM8HjfoVo9ME5JFKoe+4UbhoFV+LuqL6y+FYVKqSIeEyDfoDvp4GRhB
+0rpCsNvnGZZoeQDvS7J0YxqUY8MiX9o5TJytD8aoy+vOyufoRzkl1/Vh2l+oYO3U
+qIgEuqIvXg5aoheZPZjEQZzBdb1WZDksqGJjNUc45wQ6GviU70wKY55omSrOeGXL
+Y0Xx8vqSKDnR+JjGMpqGN8bvMRuTxUxcxA2yD5B8xf59MzSPHPIgOiNm5OKmst/C
+RYEMuUapC3HEsSGoX2O0tstzqOXWNkNSXX3HQShICAVOeUWha/txpH8zkh/00V2z
+fN4OE9mQBvO5d8uhBxMXsBX7MXDpvi2YyrbHGuf4UPomE0XJ7svqBGmlrz7viaj/
+B0Bl7c6Ykvf63cs6plOFcSi7ryLNBRap3rmHe/0n4ByIv9Z0fI8ZKwAKT2qGZeqe
++w/1QEmTwGBGdHzjWsUqabf1NlmjoD0qx+X7dVtKcT1ECyVAz0/swpvNkbF8EW1N
+omTd6DZjKyI7YzN6394yqPHBpReG6pkNgixm5n7aKhvgCAEvUL4=
+=v0T8
+-----END PGP SIGNATURE-----
