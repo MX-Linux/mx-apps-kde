@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 17 Jan 2024 23:55:35 -0500
+Source: mx-apps-kde
+Binary: mx-apps-kde
+Architecture: source all
+Version: 24.01.01
+Distribution: mx
+Urgency: medium
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-apps-kde - metapackage for MX applets
+Changes:
+ mx-apps-kde (24.01.01) mx; urgency=medium
+ .
+   * add mx-locale
+   * add papirus-folder-colors
+Checksums-Sha1:
+ 9c85a73ae519811fd568ccf0310a391715545234 1432 mx-apps-kde_24.01.01.dsc
+ 9aa1c84ad6c0b4ba37a9d3ae6f7935321489bcd6 17584 mx-apps-kde_24.01.01.tar.xz
+ eecd887c6be12803df0910f0efa56f7979b0ffe8 16512 mx-apps-kde_24.01.01_all.deb
+ 9ca54a3e270787e444c375c4b544225cf4050cc1 6122 mx-apps-kde_24.01.01_amd64.buildinfo
+Checksums-Sha256:
+ 55b9c99d83790379de1d014e25d75476fb18d9fe65d1f867a90721f527ead894 1432 mx-apps-kde_24.01.01.dsc
+ 0cd2b05a4e52aab9023bbdae4d05da374abfeb42f10244c19b5a365a241ed981 17584 mx-apps-kde_24.01.01.tar.xz
+ 936702a1d4265d701dcce07d2518f4940c5586701b44085703fc1ad66f7bc5b8 16512 mx-apps-kde_24.01.01_all.deb
+ efc5e04f8f9006ffad1854c51425b3ba822c6720b979cf722d717f5a533c75cb 6122 mx-apps-kde_24.01.01_amd64.buildinfo
+Files:
+ db64a788f73274f6a45ec2822e06263a 1432 system optional mx-apps-kde_24.01.01.dsc
+ 9c9bda3dd968b887eceeffee7e089d3b 17584 system optional mx-apps-kde_24.01.01.tar.xz
+ d81dc9089ce4a4230cd4821056a82bf4 16512 system optional mx-apps-kde_24.01.01_all.deb
+ 36a30f52b5f9f2baa224099d14e8cfac 6122 system optional mx-apps-kde_24.01.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWosCwACgkQm2ih6Lm2
+N1yTwBAAlmtf+mcAppBP7JojtcEJ/qFpieTMJ/U7pHr9eq2+SCRH7IqMq4sxqpFE
+3NwztBnQiVTALyNumiNor0GhOjACPYZ8NXFzdWFPJmvg0w4gIQpaRsb28D45vRrH
+BfIsLdjd/fujHTjwUSv0pBhUpcyXnavnglvLz1fXISFFNmxY99DNBUg+18TCTQf4
+JB8suRzVo64T1/ZtEJm6SDROOH1iPKvJPPBUM9mTPTytBgcCdvKHUPYh5nvrHP+9
+DHLEiWCDoIWp0D1CcVwYqI1rUARd7mkEM/pGglXr+x8OwGrtC7R4OQx8U8ZpOn+x
+dwT2kc99CToiuon7rOE+Si+zpqmKlIw+OvrGzuJBP5DvyKUxlbr1jPY1Dcs9qyPS
+sT+3bNmXSULUbCXg9QGmxzqB75TC/qMaaqjnvunvT53pw+HtJxQzDwk8PVQCSe/N
+7ipzBFSqOIKbRA2jTocijZMKF1fWVEJ+kvjdz99bQnUmG+JYVZxEGaxuoqQlhjv8
+W61Kj2BDsRw5Uwz0Mr1xRNU/zb9VayJiM1aOvBVOutlQSKWPBLdTh7erRGMvO4zK
+mdsruXoOV/f+Qy0pzn5er15wZxRc1VVteo8gxTzR7tA6AvWFoNA/lpONuf+1qZCY
+WWvnLNNynNAVt3kU9PrSseJ8K6ihQ+5uY5lZ08mQrNdsTX6pD+Q=
+=RTzD
+-----END PGP SIGNATURE-----

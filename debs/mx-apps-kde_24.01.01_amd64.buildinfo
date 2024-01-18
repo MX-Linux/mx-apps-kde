@@ -5,19 +5,19 @@ Format: 1.0
 Source: mx-apps-kde
 Binary: mx-apps-kde
 Architecture: all source
-Version: 23.09.01
+Version: 24.01.01
 Checksums-Md5:
- 597fba5067ba0751e245cbd6ad6346ac 1432 mx-apps-kde_23.09.01.dsc
- 3a9a87ad63ba40302401b8fbae96d4dc 16448 mx-apps-kde_23.09.01_all.deb
+ db64a788f73274f6a45ec2822e06263a 1432 mx-apps-kde_24.01.01.dsc
+ d81dc9089ce4a4230cd4821056a82bf4 16512 mx-apps-kde_24.01.01_all.deb
 Checksums-Sha1:
- 4e75b6e7c364a2b4e62a872385df84b95e62517b 1432 mx-apps-kde_23.09.01.dsc
- 5a19558a0f9908a8e8a509a477d0e8eead56ca40 16448 mx-apps-kde_23.09.01_all.deb
+ 9c85a73ae519811fd568ccf0310a391715545234 1432 mx-apps-kde_24.01.01.dsc
+ eecd887c6be12803df0910f0efa56f7979b0ffe8 16512 mx-apps-kde_24.01.01_all.deb
 Checksums-Sha256:
- 35ff54904f7f21122ee2c83c139178bed565d2de242de659a23a177e912b410a 1432 mx-apps-kde_23.09.01.dsc
- 6fca19a487a20ecb8dee667ecc7027103a8a22f76b077629604a64d48e0b9fe5 16448 mx-apps-kde_23.09.01_all.deb
+ 55b9c99d83790379de1d014e25d75476fb18d9fe65d1f867a90721f527ead894 1432 mx-apps-kde_24.01.01.dsc
+ 936702a1d4265d701dcce07d2518f4940c5586701b44085703fc1ad66f7bc5b8 16512 mx-apps-kde_24.01.01_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Wed, 06 Sep 2023 23:04:45 -0400
+Build-Date: Wed, 17 Jan 2024 23:59:23 -0500
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -27,7 +27,7 @@ Installed-Build-Depends:
  automake (= 1:1.16.5-1.3),
  autopoint (= 0.21-12),
  autotools-dev (= 20220109.1),
- base-files (= 12.4+deb12u1),
+ base-files (= 12.4+deb12u4),
  base-passwd (= 3.6.1),
  bash (= 5.2.15-2+b2),
  binutils (= 2.40-2),
@@ -44,7 +44,7 @@ Installed-Build-Depends:
  dash (= 0.5.12-2),
  debconf (= 1.5.82),
  debhelper (= 13.11.4),
- debianutils (= 5.7-0.4),
+ debianutils (= 5.7-0.5~deb12u1),
  dh-autoreconf (= 20),
  dh-strip-nondeterminism (= 1.13.1-1),
  diffutils (= 1:3.8-4),
@@ -78,10 +78,10 @@ Installed-Build-Depends:
  libbinutils (= 2.40-2),
  libblkid1 (= 2.38.1-5+b1),
  libbz2-1.0 (= 1.0.8-5+b1),
- libc-bin (= 2.36-9+deb12u1),
- libc-dev-bin (= 2.36-9+deb12u1),
- libc6 (= 2.36-9+deb12u1),
- libc6-dev (= 2.36-9+deb12u1),
+ libc-bin (= 2.36-9+deb12u3),
+ libc-dev-bin (= 2.36-9+deb12u3),
+ libc6 (= 2.36-9+deb12u3),
+ libc6-dev (= 2.36-9+deb12u3),
  libcap-ng0 (= 0.8.3-1+b3),
  libcap2 (= 1:2.66-4),
  libcc1-0 (= 12.2.0-14),
@@ -105,15 +105,15 @@ Installed-Build-Depends:
  libgomp1 (= 12.2.0-14),
  libgpg-error0 (= 1.46-1),
  libgprofng0 (= 2.40-2),
- libgssapi-krb5-2 (= 1.20.1-2),
+ libgssapi-krb5-2 (= 1.20.1-2+deb12u1),
  libicu72 (= 72.1-3),
  libisl23 (= 0.25-1),
  libitm1 (= 12.2.0-14),
  libjansson4 (= 2.14-2),
- libk5crypto3 (= 1.20.1-2),
+ libk5crypto3 (= 1.20.1-2+deb12u1),
  libkeyutils1 (= 1.6.3-2),
- libkrb5-3 (= 1.20.1-2),
- libkrb5support0 (= 1.20.1-2),
+ libkrb5-3 (= 1.20.1-2+deb12u1),
+ libkrb5support0 (= 1.20.1-2+deb12u1),
  liblsan0 (= 12.2.0-14),
  liblz4-1 (= 1.9.4-1),
  liblzma5 (= 5.4.1-0.2),
@@ -125,12 +125,12 @@ Installed-Build-Depends:
  libmpfr6 (= 4.2.0-1),
  libnsl-dev (= 1.3.0-2),
  libnsl2 (= 1.3.0-2),
- libpam-modules (= 1.5.2-6),
- libpam-modules-bin (= 1.5.2-6),
- libpam-runtime (= 1.5.2-6),
- libpam0g (= 1.5.2-6),
+ libpam-modules (= 1.5.2-6+deb12u1),
+ libpam-modules-bin (= 1.5.2-6+deb12u1),
+ libpam-runtime (= 1.5.2-6+deb12u1),
+ libpam0g (= 1.5.2-6+deb12u1),
  libpcre2-8-0 (= 10.42-1),
- libperl5.36 (= 5.36.0-7),
+ libperl5.36 (= 5.36.0-7+deb12u1),
  libpipeline1 (= 1.5.7-1),
  libquadmath0 (= 12.2.0-14),
  libreadline8 (= 8.2-1.3),
@@ -138,7 +138,7 @@ Installed-Build-Depends:
  libselinux1 (= 3.4-1+b6),
  libsigsegv2 (= 2.14-1),
  libsmartcols1 (= 2.38.1-5+b1),
- libssl3 (= 3.0.9-1),
+ libssl3 (= 3.0.11-1~deb12u2),
  libstdc++-12-dev (= 12.2.0-14),
  libstdc++6 (= 12.2.0-14),
  libsub-override-perl (= 0.09-4),
@@ -156,7 +156,7 @@ Installed-Build-Depends:
  libuuid1 (= 2.38.1-5+b1),
  libxml2 (= 2.9.14+dfsg-1.3~deb12u1),
  libzstd1 (= 1.5.4+dfsg2-5),
- linux-libc-dev (= 6.4.13-1~mx23ahs),
+ linux-libc-dev (= 6.6.9-1~mx23ahs),
  login (= 1:4.13+dfsg1-1+b1),
  m4 (= 1.4.19-3),
  make (= 4.3-4.1),
@@ -166,9 +166,9 @@ Installed-Build-Depends:
  ncurses-base (= 6.4-4),
  ncurses-bin (= 6.4-4),
  patch (= 2.7.6-7),
- perl (= 5.36.0-7),
- perl-base (= 5.36.0-7),
- perl-modules-5.36 (= 5.36.0-7),
+ perl (= 5.36.0-7+deb12u1),
+ perl-base (= 5.36.0-7+deb12u1),
+ perl-modules-5.36 (= 5.36.0-7+deb12u1),
  po-debconf (= 1.0.21+nmu1),
  readline-common (= 8.2-1.3),
  rpcsvc-proto (= 1.4.3-1),
@@ -184,21 +184,21 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=16"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1694055283"
+ SOURCE_DATE_EPOCH="1705553735"
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmT5Pc4ACgkQm2ih6Lm2
-N1wwHw//czdV7NbU3Ut5IoeKoPcdCXRKBzJjcukmzDXiAThBEdrcMOQvz9FOl5oV
-VBqgE6915bEq+9Tt/i7DVLGTF1jziV/91HcHmqZCJaKrccWljYgiFOlgILyFfJfN
-JcdAmQ9ETshU7zX/CUfJA2fmuFPrIgJOsHRKqWw4bIFFZF+uHDoQS/wNScjb0Mv9
-65zu8IP8d26ZyHRACVGGbeIQriGqIGY8zsws+MbDw3DPL3+kJplIBKPxTO/gKsds
-u96qd4vvHXUZQPa57YSTIMCKV8Hsm0hv1vz+dSR78iqnTwL1O/Xj/VKC8xXKOlEo
-8CI9C5OpdTmYiZGcC3Hatg6Pg2JIlX5ku5sMv72SSTsShX5a79mV28jCNuaH/pLM
-rp+d9yIv+pkzFJufb9MHH+K2fxxpTBQ2cvyAMIW9//Mh9PUJphlzYliyG7T6lmty
-Lp0tVCkERuFMG03EarVPbtfViTk4RDwH4bEKU7o0QaFHjhIKDKFaLowV7zBbK+wc
-J/lctxJduoHUWechNEVCZ8MpYD9o4SuPZsNMXsEjPM15wqJpXVkNX7AwJGOkdvS0
-ulzg0gLZLRlzm+aoKi2Fo7XY/90cTgvCmU6gzqgSMJhC12/us3wQHejX9dd3vKok
-tgZq2WqlDVFClyuUHINFIbw4Mt9SqX+Y161hN0bSkJ96k88InNg=
-=wdOh
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWosCwACgkQm2ih6Lm2
+N1xvzg//U/z9Sf1v5jk1YliLL7nTEeECI9SD0BOJ8tVkoDnCnMwuxN/q1wQ52sAP
+ilxopSTBH8ReYy9L9UNXUaMwRZunyjJow8vCv+l88P0Nm2X6GUanmxCcQoShUKww
+n9kJUO5eXIPc/EfB4Rpduom6ibRmbjY/v/7DgexYcte3K8FfWbmBg8U6Vd60e4Ic
+SYZ3rbHy6zgNMQ92FodYmKQGmUvsJtKa+m1qQSEEWh7BHm9ax6xTpdSXELyOQ1fN
+8/gU6UqpPWoUqcxrQ8thie882426VBUzAZ0NtXJmx+Yt+yB4+GDguL58QJZmMMUR
+Dlmq2zXzZTRCo66ytK46Rha6TzeS7BgB5NzQqa7XcHN7Wv04C4/ZzgyqxWDyvO0D
+H8ASN9jnRlYrpbkvyFQV7mdE19kl3IgtWyntl1tnBjKFEmbmuLfN0MTiF8JZI4tL
+1q0cXRgO8N6zxXXgBvCxus7DenXqSOxNQvwhdS5gOih8MBj0Pt/P/1rlsr48mljk
+PMW1ckYKxHny8OWp6+cyJzNgdoSFsGmcKOcyyz+5rR4bjC5CsJL7RHygJL4BkLTy
+CusxSmHXwgdJ38NywJtpVlqrE1csirwOCQcqv7URRlZj5dueXsqF+WZZSQLEe/zy
+uadJdpSX6vmch9MMqFKlBdUhw5yAtP89TFhyZrxLLbOvZT/a0os=
+=6qtw
 -----END PGP SIGNATURE-----
