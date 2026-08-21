@@ -38,6 +38,7 @@ Depends:
  mx-cleanup,
  papirus-folder-colors,
  quick-system-info-gui,
+ verify-iso-sig,
  system-keyboard-qt
 Breaks: docs-mx,
  install-meta-mx,
